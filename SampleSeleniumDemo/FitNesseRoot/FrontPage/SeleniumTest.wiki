@@ -1,0 +1,9 @@
+!define TEST_SYSTEM {slim}
+
+
+!|import|
+|test   |
+
+!|FirstTest                                                 |
+|website1|website2         |testingGoogle?|testingToolsQA?  |
+|Gmail   |Selenium Training|Gmail         |SELENIUM TRAINING|

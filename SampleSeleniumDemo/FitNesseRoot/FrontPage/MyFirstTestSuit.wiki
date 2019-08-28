@@ -1,0 +1,7 @@
+---
+Suite
+---
+!1 Test suite X
+!contents -R2 -g -p -f -h
+
+!path E:\Fitnesse\FitNesseRoot\files\classes

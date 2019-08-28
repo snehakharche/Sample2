@@ -1,0 +1,13 @@
+---
+Test
+---
+!define TEST_SYSTEM {slim}
+!|import|
+|a2   |
+
+!|SubtractNumbers|
+|num1|num2|testsubtract?|
+|6|2|4|
+|7|3|4|
+|8|5|3|
+|9|4|5|

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20190716</FitNesseVersion>
+  <rootPath>FrontPage.MultipleTests</rootPath>
+  <pageHistoryReference>
+    <name>FrontPage.MultipleTests.Datamato</name>
+    <date>2019-08-21T15:28:30+05:30</date>
+    <pageHistoryLink>FrontPage.MultipleTests.Datamato?pageHistory&amp;resultDate=20190821152830</pageHistoryLink>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>17</exceptions>
+    </counts>
+    <runTimeInMillis>145</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>FrontPage.MultipleTests.Guru99Test</name>
+    <date>2019-08-21T15:28:30+05:30</date>
+    <pageHistoryLink>FrontPage.MultipleTests.Guru99Test?pageHistory&amp;resultDate=20190821152830</pageHistoryLink>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>7</exceptions>
+    </counts>
+    <runTimeInMillis>41</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>java -cp E:\Fitnesse\fitnesse-standalone.jar;E:\Fitnesse\FitNesseRoot\files\classes\MultipleTests;E:\Fitnesse\lib\client-combined-3.141.59-sources.jar;E:\Fitnesse\lib\client-combined-3.141.59.jar;E:\Fitnesse\lib\selenium-server-standalone-3.141.59.jar;E:\Fitnesse\lib\testng-6.0.jar;E:\Fitnesse\resources\chromedriver.exe;E:\Fitnesse\resources\geckodriver.exe fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>2</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>792</totalRunTimeInMillis>
+</suiteResults>
+

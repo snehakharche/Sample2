@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20190716</FitNesseVersion>
+  <rootPath>frontpage.MyFirstTestSuit</rootPath>
+  <pageHistoryReference>
+    <name>frontpage.MyFirstTestSuit.Add</name>
+    <date>2019-08-23T15:50:41+05:30</date>
+    <pageHistoryLink>frontpage.MyFirstTestSuit.Add?pageHistory&amp;resultDate=20190823155041</pageHistoryLink>
+    <counts>
+      <right>2</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>234</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>frontpage.MyFirstTestSuit.Datamato</name>
+    <date>2019-08-23T15:50:42+05:30</date>
+    <pageHistoryLink>frontpage.MyFirstTestSuit.Datamato?pageHistory&amp;resultDate=20190823155042</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>2</wrong>
+      <ignores>0</ignores>
+      <exceptions>4</exceptions>
+    </counts>
+    <runTimeInMillis>19768</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>java -cp E:\Fitnesse\fitnesse-standalone.jar;E:\Fitnesse\FitNesseRoot\files\classes;E:\Fitnesse\FitNesseRoot\files\classes\MultipleTests;E:\Fitnesse\lib\client-combined-3.141.59-sources.jar;E:\Fitnesse\lib\client-combined-3.141.59.jar;E:\Fitnesse\lib\selenium-server-standalone-3.141.59.jar;E:\Fitnesse\lib\testng-6.0.jar;E:\Fitnesse\resources\chromedriver.exe;E:\Fitnesse\resources\geckodriver.exe fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>titlehttps://www.google.com/search?source=hp&amp;ei=_71fXcXsLZr2rQGqtJboDw&amp;q=datamato&amp;oq=datamato&amp;gs_l=psy-ab.12...297.351..441...0.0..0.0.0.......0....1..gws-wiz.&amp;ved=0ahUKEwiF6J7H4pjkAhUaeysKHSqaBf0Q4dUDCAk
+In clickonfirstlink
+Size of list : 0
+titlehttps://www.google.com/search?source=hp&amp;ei=Cb5fXd7MDpiGyAOnvKqACg&amp;q=datamato&amp;oq=datamato&amp;gs_l=psy-ab.12...151.190..238...0.0..0.0.0.......0....1..gws-wiz.&amp;ved=0ahUKEwie9eHL4pjkAhUYA3IKHSeeCqAQ4dUDCAk
+In clickonfirstlink
+Size of list : 0
+</stdOut>
+    <stdErr>Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 41648
+
+Only local connections are allowed.
+
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+
+[1566555647.010][WARNING]: Timed out connecting to Chrome, retrying...
+
+Aug 23, 2019 3:50:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+1566555652620	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile.UlTVhrb2nu1u"
+
+1566555653682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+
+1566555653682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+
+1566555653683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+
+1566555653683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+[Parent 7364, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+[Child 8092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+[Child 8092, Chrome_ChildThread] WAR1566555658176	Marionette	INFO	Listening on port 63998
+
+1566555658505	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+Aug 23, 2019 3:50:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+</stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>2</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>20971</totalRunTimeInMillis>
+</suiteResults>
+

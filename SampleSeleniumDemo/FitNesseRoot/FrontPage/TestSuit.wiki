@@ -1,0 +1,15 @@
+---
+Suite
+Test: no
+---
+!define TEST_SYSTEM {slim}
+!path E:\Fitnesse\FitNesseRoot\files\classes\MultipleTests
+
+!|import|
+|Tests|
+
+!|import|
+|PageObject|
+!contents -R2 -g -p -f -h
+
+

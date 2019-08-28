@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20190716</FitNesseVersion>
+  <rootPath>FrontPage.MyFirstTestSuit</rootPath>
+  <pageHistoryReference>
+    <name>FrontPage.MyFirstTestSuit.Add</name>
+    <date>2019-08-23T16:55:25+05:30</date>
+    <pageHistoryLink>FrontPage.MyFirstTestSuit.Add?pageHistory&amp;resultDate=20190823165525</pageHistoryLink>
+    <counts>
+      <right>2</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>140</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>FrontPage.MyFirstTestSuit.Datamato</name>
+    <date>2019-08-23T16:55:25+05:30</date>
+    <pageHistoryLink>FrontPage.MyFirstTestSuit.Datamato?pageHistory&amp;resultDate=20190823165525</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>2</wrong>
+      <ignores>0</ignores>
+      <exceptions>4</exceptions>
+    </counts>
+    <runTimeInMillis>28155</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>java -cp E:\Fitnesse\fitnesse-standalone.jar;E:\Fitnesse\FitNesseRoot\files\classes;E:\Fitnesse\FitNesseRoot\files\classes\MultipleTests;E:\Fitnesse\lib\client-combined-3.141.59-sources.jar;E:\Fitnesse\lib\client-combined-3.141.59.jar;E:\Fitnesse\lib\selenium-server-standalone-3.141.59.jar;E:\Fitnesse\lib\testng-6.0.jar;E:\Fitnesse\resources\chromedriver.exe;E:\Fitnesse\resources\geckodriver.exe fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>titlehttps://www.google.com/search?source=hp&amp;ei=LM1fXdSPNMf2rQHWj4SoBQ&amp;q=datamato&amp;oq=datamato&amp;gs_l=psy-ab.12...533.598..699...0.0..0.0.0.......0....1..gws-wiz.&amp;ved=0ahUKEwjU1eaD8ZjkAhVHeysKHdYHAVUQ4dUDCAk
+In clickonfirstlink
+Size of list : 0
+titlehttps://www.google.com/search?source=hp&amp;ei=OM1fXc3VL5jgrQHmwLjABw&amp;q=datamato&amp;oq=datamato&amp;gs_l=psy-ab.12...1533.1609..1663...0.0..0.0.0.......0....1..gws-wiz.&amp;ved=0ahUKEwjN0b6J8ZjkAhUYcCsKHWYgDngQ4dUDCAk
+In clickonfirstlink
+Size of list : 0
+</stdOut>
+    <stdErr>Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 32075
+
+Only local connections are allowed.
+
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+
+[1566559531.879][WARNING]: Timed out connecting to Chrome, retrying...
+
+Aug 23, 2019 4:55:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+1566559539208	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile.I8djBk8yMqsA"
+
+1566559540463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+
+1566559540463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+
+1566559540463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+
+1566559540464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+1566559544911	Marionette	INFO	Listening on port 64948
+
+1566559545087	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+Aug 23, 2019 4:55:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+</stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>2</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>29170</totalRunTimeInMillis>
+</suiteResults>
+

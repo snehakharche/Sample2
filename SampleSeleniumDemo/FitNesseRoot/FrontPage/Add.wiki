@@ -1,0 +1,16 @@
+---
+Test
+---
+!define TEST_SYSTEM {slim}
+
+
+!|import|
+|com.demo   |
+
+!|AddNumbers|
+|num1|num2|add?|
+|1|2|3|
+|2|3|5|
+|4|5|9|
+|5|6|11|
+|6|1|9|

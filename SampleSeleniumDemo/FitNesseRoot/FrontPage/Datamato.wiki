@@ -1,0 +1,12 @@
+---
+Test
+---
+!define TEST_SYSTEM {slim}
+
+!|import|
+|Test|
+
+!|DatamatoTest|
+|browser|openBrowser?|url|navigateToURL?|searchString|searchDatamato?|clickOnFirstLinkAndPrint?|checkServiceTabPresent?|
+|chrome|Browser opened|https://www.google.com|true|datamato|true|Datamato|true|
+|firefox|Browser opened|https://www.google.com|true|datamato|true|Datamato|true|

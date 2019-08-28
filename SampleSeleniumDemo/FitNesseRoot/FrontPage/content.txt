@@ -1,0 +1,8 @@
+!contents
+!path E:\Sneha\New Workspace\Fitnesse-demo\target\test-classes
+!path E:\Fitnesse\lib\*.jar
+!path E:\Fitnesse\resources\*.exe
+
+
+${FITNESSE_VERSION}
+

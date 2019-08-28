@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20190716</FitNesseVersion>
+  <rootPath>frontpage.MyFirstTestSuit</rootPath>
+  <pageHistoryReference>
+    <name>frontpage.MyFirstTestSuit.Add</name>
+    <date>2019-08-23T10:57:33+05:30</date>
+    <pageHistoryLink>frontpage.MyFirstTestSuit.Add?pageHistory&amp;resultDate=20190823105733</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>125</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>frontpage.MyFirstTestSuit.Datamato</name>
+    <date>2019-08-23T10:57:33+05:30</date>
+    <pageHistoryLink>frontpage.MyFirstTestSuit.Datamato?pageHistory&amp;resultDate=20190823105733</pageHistoryLink>
+    <counts>
+      <right>10</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>38299</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>java -cp E:\Fitnesse\fitnesse-standalone.jar;E:\Fitnesse\FitNesseRoot\files\classes;E:\Fitnesse\FitNesseRoot\files\classes\MultipleTests;E:\Fitnesse\lib\client-combined-3.141.59-sources.jar;E:\Fitnesse\lib\client-combined-3.141.59.jar;E:\Fitnesse\lib\selenium-server-standalone-3.141.59.jar;E:\Fitnesse\lib\testng-6.0.jar;E:\Fitnesse\resources\chromedriver.exe;E:\Fitnesse\resources\geckodriver.exe fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut>titledatamato - Google Search
+In clickonfirstlink
+Size of list : 35
+first link Datamato – DevOps, IoT,Security,Cloud – Software Consultant ...
+
+https://www.datamato.com
+Datamato – DevOps, IoT,Security,Cloud – Software Consultant &amp; Services Title of page
+website loaded successfully Services
+titledatamato - Google Search
+In clickonfirstlink
+Size of list : 35
+first link Datamato – DevOps, IoT,Security,Cloud – Software Consultant ...
+
+https://www.datamato.com
+Datamato – DevOps, IoT,Security,Cloud – Software Consultant &amp; Services Title of page
+website loaded successfully Services
+</stdOut>
+    <stdErr>Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 12762
+
+Only local connections are allowed.
+
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+
+[1566538060.359][WARNING]: Timed out connecting to Chrome, retrying...
+
+Aug 23, 2019 10:57:42 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+1566538073089	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile.2G3TQ0F0lpKW"
+
+1566538075034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+
+1566538075035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+
+1566538075035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+
+1566538075035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+1566538082603	Marionette	INFO	Listening on port 56394
+
+1566538083061	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+Aug 23, 2019 10:58:03 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+JavaScript warning: https://www.datamato.com/wp-content/cache/autoptimize/js/autoptimize_50a58ef7f26806cd60141cdfeb5c9db2.js, line 782: unreachable code after return statement
+
+JavaScript warning: https://www.datamato.com/wp-content/cache/autoptimize/js/autoptimize_50a58ef7f26806cd60141cdfeb5c9db2.js, line 785: unreachable code after return statement
+
+JavaScript warning: https://www.datamato.com/wp-content/cache/autoptimize/js/autoptimize_50a58ef7f26806cd60141cdfeb5c9db2.js, line 782: unreachable code after return statement
+
+</stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>2</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>39162</totalRunTimeInMillis>
+</suiteResults>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20190716</FitNesseVersion>
+  <rootPath>CalculatorSystem</rootPath>
+  <result>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>1</exceptions>
+    </counts>
+    <date>2019-08-14T17:49:10+05:30</date>
+    <runTimeInMillis>2</runTimeInMillis>
+    <content>&lt;br/&gt;&lt;br/&gt;    !contents&lt;br/&gt;    !path C:\Fitnesse\FitNesseRoot\files\classes&lt;br/&gt;    !path C:\Fitnesse\lib\*.jar&lt;br/&gt;&lt;br/&gt;Test for Basic calculations!!&lt;br/&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td class="error"&gt;firstArg&lt;hr/&gt; &lt;span class="fit_label"&gt;Could not find fixture: firstArg.&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;secondArg&lt;/td&gt;
+		&lt;td&gt;Add&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+</content>
+    <relativePageName>CalculatorSystem</relativePageName>
+  </result>
+  <executionLog>
+    <testSystem>fit:fit.FitServer</testSystem>
+    <command>java -cp E:\Fitnesse\fitnesse-standalone.jar fit.FitServer DESKTOP-HS198AQ 55041 3863</command>
+    <exitCode>1</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>631</totalRunTimeInMillis>
+</testResults>
+

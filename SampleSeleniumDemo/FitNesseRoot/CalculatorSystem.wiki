@@ -1,0 +1,11 @@
+---
+Test
+---
+
+    !contents
+    !path C:\Fitnesse\FitNesseRoot\files\classes
+    !path C:\Fitnesse\lib\*.jar
+
+Test for Basic calculations!!
+|firstArg|secondArg|Add|
+|1       |2        |3  |

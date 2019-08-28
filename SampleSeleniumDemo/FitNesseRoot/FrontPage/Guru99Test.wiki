@@ -1,0 +1,13 @@
+!define TEST_SYSTEM {slim}
+
+!|import|
+|Test   |
+
+!|import   |
+|PageObject|
+
+!|TestGuru99               |
+|username  |password|Login?|
+|mngr217155|UpYrAhY |true  |
+|abc       |abc     |false |
+

@@ -1,0 +1,12 @@
+---
+Test
+---
+!define TEST_SYSTEM {slim}
+!path E:\Sneha\Workspace\Sample\bin 
+
+!|p1.Test|
+
+|num|add?|
+|2  |4   |
+|3  |5   |
+|4  |67  |
